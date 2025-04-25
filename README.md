@@ -1,6 +1,9 @@
 👋 Hi, I’m @nicolesernaque
+
 👩‍💻 I’m an IT Recruiter passionate about tech talent and headhunting
+
 🎓 Certified in Tech Sourcing Advanced | RecruHack
+
 🔍 I’m interested in sourcing Frontend, Backend, Fullstack, Devs, Data, Cloud, Mobile & Web 
 🌱 I’m currently learning more about GitHub sourcing & IT profiles
 🛠️ Tools I use: GitHub Advanced Search, LinkedIn Recruiter, Indeed, Boolean Strings, Bumeran, Hiring
