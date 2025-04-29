@@ -24,4 +24,4 @@
 
 😄 Pronouns: she / her
 
-# 📂 You can also attach your profile to have you on my radar for tech talent opportunities (LATAM & USA) 👉 [postula-aqui](https://forms.gle/VjKnHdRTEcaaTGrT9) 
+## 📂 You can also attach your profile to have you on my radar for tech talent opportunities (LATAM & USA) 👉 [Apply here](https://forms.gle/VjKnHdRTEcaaTGrT9) 
