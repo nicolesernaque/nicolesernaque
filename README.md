@@ -23,3 +23,5 @@
 ✨ "Connecting people with opportunities that help them grow." ✨
 
 😄 Pronouns: she / her
+
+# 📂 You can also attach your profile to have you on my radar for tech talent opportunities (LATAM & USA) 👉 [postula-aqui](https://forms.gle/VjKnHdRTEcaaTGrT9) 
